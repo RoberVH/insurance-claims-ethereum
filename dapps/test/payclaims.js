@@ -23,10 +23,6 @@ contract('Test Deployment', async accounts => {
 				payments.updatePatient(patient, true);
 				let patientValid = await payments.listofInsuredPatients.call(patient);
 				assert(patientValid, 'Patient should be valid!');
-				// now let's invalidate that patient
-				payments.updatePatient(patient, false);
-				patientValid = await payments.listofInsuredPatients.call(patient);
-				assert(!patientValid, 'Patient shouldn\'t be valid!');		
 			});
 			it ('Insurer (owner) invalidates a registered patient', async () => {
 				let patient = accounts[3];
@@ -35,5 +31,12 @@ contract('Test Deployment', async accounts => {
 				patientValid = await payments.listofInsuredPatients.call(patient);
 				assert(!patientValid, 'Patient shouldn\'t be valid!');		
 			});
+			it ('Only Insurer can register a patient', async () => {
+				let patient = accounts[3];
+				payments.updatePatient(patient, true, {from: accounts[1]});  // pharmacy tries to register patient
+				patientValid = await payments.listofInsuredPatients.call(patient);
+				assert(!patientValid, 'Patient shouldn\'t be valid!');		
+			});			
+
 });
 
