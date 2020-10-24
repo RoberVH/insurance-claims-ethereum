@@ -2,39 +2,93 @@ import React, {useState} from 'react';
 //import { Button} from 'react-bootstrap';
 import './App.css';
 import MedSelection from './components/MedSelection';
+import MedEntry from './components/MedEntry';
+import PrescriptionControls from './components/PrescriptionControls';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
 
-const [selectedMedication, setSelMed] =  useState({ name:'', price: 0, subtotal:  0, qtty: 0}); 
+const noMed={ name:'Select Medicine', price: 0, subtotal:  0, qtty: 0}  //null medicine object to simplify UI design
+const [selectedMedication, setSelMed] =  useState(noMed);   // current medicine being edited
+const [medEntryLines, setMedEntry] =  useState([])          // List of medicines in the prescription
+const [total, setTotal] =  useState(0)                      // Total sum of medication in prescription list
+
 
 const savePrescription =  (event) => {
   event.preventDefault();
  }
 
+ const addMed = () => {
+  setMedEntry([...medEntryLines,selectedMedication]) 
+  setSelMed(noMed)
+  setTotal(total + selectedMedication.subtotal)
+ }
+
+const newMedList = (medList,idx) => {
+  let newML = medEntryLines
+  newML.splice(idx,1)
+  return newML
+}
+
+const removeMedLine = (indx) => {
+  setTotal(total - medEntryLines[indx].subtotal)
+  setMedEntry(medEntryLines.filter((med,count) => count!== indx))
+}
+
+const resetPrescription = () => {
+  // back to square zero
+  setMedEntry([])   
+  setTotal(0)
+}
+
+const sendPrescription = () => {
+
+}
+
    return (
     <div className="App">
       <h1>Pharmaland</h1>
-       <div className="justify-content-center" style ={{margin:'5%', border: '1px solid blue', borderRadius: '15px'}}>
-        <div style ={{padding: '10px', display: 'flex'}}>
+       <div style= {{margin:'5px'}}>
+        <div >
           <MedSelection 
             medication = {selectedMedication} 
             setValues = {setSelMed}
+            addMed = {addMed}
           />
         </div>
-      </div>
-        <form onSubmit= {savePrescription}>
-          {/* <input id = 'quantity' type='number' onChange={changeMed}></input>
-          <input id = 'medicine' type='Text' onChange={changeQty}></input>
-          <input id = 'price' type='number' onChange={changeQty}></input>
-          <input id = 'subtotal' type='number' onChange={changeQty}></input>
-         <button type="submit">Send</button> */}
-         <input  name = 'quanty' type='number'></input>
-          <input name = 'medicine' type='Text' ></input>
-          <input name = 'price' type='number' ></input>
-          <input name = 'subtotal' type='number' ></input>
-         <button type="submit">Send</button>         
-        </form> 
+         { medEntryLines.length!==0 &&
+           <>
+          <div style= {{ textAlign:'right', margin:'5%'}}>
+                <PrescriptionControls 
+                total={total}
+                resetPrescription = {resetPrescription}
+                sendPrescription = {sendPrescription}
+                />
+           </div> 
+           <table>
+             <thead>
+              <tr style={{background:'lightblue'}}>
+                <th style={{width:'8%'}}>Qty</th>
+                <th style={{width:'60%'}}>Medicine</th>
+                <th style={{width:'12%'}}>Price</th>
+                <th style={{width:'14'}}>Subtotal</th>
+                <th style={{width:'6%'}}>Remove</th>
+              </tr>
+              </thead>
+            <tbody>
+              {
+                medEntryLines.map((medicine,idx) => 
+                  <MedEntry key={idx}
+                    idx={idx}
+                    medicine = {medicine}
+                    removeItem={removeMedLine}
+                  />
+              )}
+              </tbody>
+            </table>
+            </>
+         }
+        </div>
     </div>
   );
 }

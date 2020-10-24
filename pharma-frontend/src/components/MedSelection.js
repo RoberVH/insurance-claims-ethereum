@@ -1,12 +1,11 @@
 import React from 'react';
-import {Form,Col} from 'react-bootstrap';
+import {Form,Col, Button} from 'react-bootstrap';
 import medCatalog from '../data/medsCatalog.json'
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
 function MedSelection(props) {
- 
+ //
 let medOptions=[];
 medOptions = medCatalog.map((value, idx) => <option key={idx + 1} value = {JSON.stringify({price: value.Precio, name: value.Medicamento})}>{value.Medicamento}</option>);
 let initialOption = <option key = {0} hidden disable="true" defaultValue > Select Medicine</option>
@@ -37,8 +36,8 @@ const onChangeQuantity = (event) => {
   }
  
 return (
-     <Form.Group controlId="formMedPrescriptionSelector">
-     <Form.Row>
+     <Form.Group controlId="formMedPrescriptionSelector" className="justify-content-center" style ={{margin:'5%', border: '1px solid blue', borderRadius: '15px'}}>
+     <Form.Row style ={{padding: '15px', display: 'flex'}} >
      <Col  md={1} lg={1}>
          <Form.Control name = 'quant' type= 'number' placeholder="Qty" onChange={onChangeQuantity} value= {props.medication.qtty || 0} />
      </Col>
@@ -47,6 +46,7 @@ return (
             as="select"
             custom onChange={onChangeSelector}>
            {medOptions}
+           value={JSON.stringify(props.medication)}
          </Form.Control>
      </Col>
      <Col  md={2} lg={2}>
@@ -55,7 +55,9 @@ return (
      <Col  md={2} lg={2}>
          <Form.Control disabled placeholder="SubTotal" type='number' value= {props.medication.subtotal || 0}  />
      </Col>          
-
+     <Col  md={1} lg={1}>
+          <Button disabled={!props.medication.subtotal}  style={{borderRadius:'50px'}} onClick = {props.addMed} >+</Button>
+     </Col>          
      </Form.Row>
      </Form.Group>
 )}
