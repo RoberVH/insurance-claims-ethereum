@@ -1,299 +1,1022 @@
-[
-    {
-      "Medicamento": "AFRODIT - 1 Frasco(s), 100 Cápsulas,",
-     "Precio": 230
-    },
-    {
-      "Medicamento": "AFRODIT - 1 Frasco(s), 30 Cápsulas,",
-     "Precio": 156
-    },
-    {
-      "Medicamento": "AFRODIT - 1 Frasco(s), 90 Cápsulas,",
-     "Precio": 200
-    },
-    {
-      "Medicamento": "AFRODIT - 1 Frasco(s), 99 Cápsulas,",
-     "Precio": 215
-    },
-    {
-      "Medicamento": "AGRIFEN - 1 Caja,10 Tabletas,",
-     "Precio": 59
-      
-    },
-    {
-      "Medicamento": "AGRIFEN - 1 Caja, 15 Tabletas,",
-     "Precio": 78
-    },
-    {
-      "Medicamento": "AGRIFEN T - 1 Caja,12 Sobre(s),10 g",
-     "Precio": 48
-    },
-    {
-      "Medicamento": "AGRIFEN T - 1 Caja,6 Sobre(s),10 g",
-     "Precio": 56
-    },
-    {
-      "Medicamento": "AGRIXAL - 1 Caja, 1 Frasco(s), 100 Cápsulas, 20 Miligramos",
-     "Precio": 190
-    },
-    {
-      "Medicamento": "AGRIXAL - 1 Caja, 1 Frasco(s), 14 Cápsulas, 20 Miligramos",
-     "Precio": 85
-    },
-    {
-      "Medicamento": "AGRIXAL - 1 Caja, 1 Frasco(s), 28 Tabletas, 20 Miligramos",
-     "Precio": 46
-    },
-    {
-      "Medicamento": "AGRIXAL - 1 Caja, 1 Frasco(s), 7 Cápsulas, 20 Miligramos",
-     "Precio": 32
-    },
-    {
-      "Medicamento": "AGRIXAL - 1 Caja, 5 Sobre(s), 15 g,",
-     "Precio": 50
-    },
-    {
-      "Medicamento": "AGRIXAL - 1 Caja, 10 Sobre(s), 15 g,",
-     "Precio": 45
-    },
-    {
-      "Medicamento": "AGRULAX MAGNESIA HIDRATADA - 1 Caja,10 Sobre(s),15 g,",
-     "Precio": 40
-    },
-    {
-      "Medicamento": "AGRULAX MAGNESIA HIDRATADA - 1 Caja,5 Sobre(s),15 g,",
-     "Precio": 84
-    },
-    {
-      "Medicamento": "ALLEGRA - 1 Caja,10 Comprimidos,30 mg",
-     "Precio": 50
-    },
-    {
-      "Medicamento": "ALLEGRA - 1 Caja,10 Comprimidos,120 mg",
-     "Precio": 150
-    },
-    {
-      "Medicamento": "ALLEGRA - 1 Caja,10 Comprimidos,180 mg",
-     "Precio": 146
-    },
-    {
-      "Medicamento": "ALLEGRA - 1 Caja,20 Comprimidos,120 mg",
-     "Precio": 120
-    },
-    {
-      "Medicamento": "ALLEGRA - 1 Caja,20 Comprimidos,30 mg",
-     "Precio": 146
-    },
-    {
-      "Medicamento": "ALLEGRA - 1 Caja,20 Comprimidos,180 mg",
-     "Precio": 180
-    },
-    {
-      "Medicamento": "ALLEMAR NASALMER - 1 Caja,1 Frasco(s),125 ml,",
-     "Precio": 112
-    },
-    {
-      "Medicamento": "ALLEMAR NASALMER - 1 Caja,1 Frasco(s),25 ml,",
-     "Precio": 45
-    },
-    {
-      "Medicamento": "ALLIFORT - 1 Caja,100 Tabletas,250 mg",
-     "Precio": 56
-    },
-    {
-      "Medicamento": "ALLIFORT - 1 Caja,14 Tabletas,125 mg",
-     "Precio": 60
-    },
-    {
-      "Medicamento": "ALLI-VIAX - 1 Caja,1 Envase,10 Tabletas,275 mg",
-     "Precio": 85
-    },
-    {
-      "Medicamento": "ALLI-VIAX - 1 Caja,1 Envase,10 Tabletas,550 mg",
-     "Precio": 140
-    },
-    {
-      "Medicamento": "ALLI-VIAX - 1 Caja,1 Envase,20 Tabletas,550 mg",
-     "Precio": 178
-    },
-    {
-      "Medicamento": "ALMETEC® - 1 Caja, 7 Tabletas, 20 Miligramos",
-     "Precio": 400
-    },
-    {
-      "Medicamento": "ALMETEC® - 1 Caja, 7 Tabletas, 40 Miligramos",
-     "Precio": 580
-    },
-    {
-      "Medicamento": "ALMETEC® TRI - 1 Caja, 14 Tabletas, 40/10/25 mg/mg/mg",
-     "Precio": 600
-    },
-    {
-      "Medicamento": "ALMETEC® TRI - 1 Caja, 14 Tabletas, 40/5/12.5 mg/mg/mg",
-     "Precio": 450
-    },
-    {
-      "Medicamento": "ATEMPERATOR LP - 1 Caja, 60 Tabletas de liberación prolongada, 600 Miligramos",
-     "Precio": 240
-    },
-    {
-      "Medicamento": "ATEMPERATOR S - 1 Caja, 1 Frasco con jeringa dosificadora, 100 ml, 200/5 mg/ml",
-     "Precio": 156
-    },
-    {
-      "Medicamento": "ATFREN - 1 Caja, 10 Tabletas, 30 Miligramos",
-     "Precio": 140
-    },
-    {
-      "Medicamento": "ATFREN - 1 Caja, 10 Tabletas, 10 Miligramos",
-     "Precio": 80
-    },
-    {
-      "Medicamento": "ATFREN - 1 Caja, 10 Tabletas, 15 Miligramos",
-     "Precio": 120
-    },
-    {
-      "Medicamento": "LACTIPAN - 1 Caja, 6 Sobre(s), 1 g,",
-     "Precio": 420
-    },
-    {
-      "Medicamento": "LEVIGRIX - 1 Caja, 1 Frasco(s), 20 ml, 5 mg/ml",
-     "Precio": 184
-    },
-    {
-      "Medicamento": "LEVIGRIX - 1 Caja, 1 Frasco(s), 200 ml, 0.5 mg/ml",
-     "Precio": 300
-    },
-    {
-      "Medicamento": "LEVIGRIX - 1 Caja, 1 Frasco(s), 30 ml, 5 mg/ml",
-     "Precio": 75
-    },
-    {
-      "Medicamento": "LEVOFENIL - 1 Caja, 1 Frasco con gotero, 5 ml,",
-     "Precio": 120
-    },
-    {
-      "Medicamento": "LEVOFLOXACINO - 1 Caja, 5 Tabletas, 500 Miligramos",
-     "Precio": 130
-    },
-    {
-      "Medicamento": "LEVOFLOXACINO - 1 Caja, 5 Tabletas, 750 Miligramos",
-     "Precio": 180
-    },
-    {
-      "Medicamento": "LEVOFLOXACINO - 1 Caja, 7 Tabletas, 750 Miligramos",
-     "Precio": 411
-    },
-    {
-      "Medicamento": "LOMETOPAN - 1 Caja, 1 Frasco nebulizador, 18 ml,",
-     "Precio": 620
-    },
-    {
-      "Medicamento": "LOMEXIN - 1 Caja, 1 Tubo, 30 g,",
-     "Precio": 402
-    },
-    {
-      "Medicamento": "LOMEXIN - 1 Caja, 2 Óvulos, 1,000 Miligramos",
-     "Precio": 340
-    },
-    {
-      "Medicamento": "LOMOTIL - 1 Caja , 1 Envase(s) de burbuja , 4 Tabletas",
-     "Precio": 400
-    },
-    {
-      "Medicamento": "LOMOTIL - 1 Cartera , 4 Tabletas",
-     "Precio": 250
-    },
-    {
-      "Medicamento": "LOMOTIL - 1 Envase(s) , 4 Tableta",
-     "Precio": 130
-    },
-    {
-      "Medicamento": "GABANTIN - 1 Caja,100 Cápsulas,400 mg",
-     "Precio": 132
-    },
-    {
-      "Medicamento": "GABANTIN - 1 Caja,15 Cápsulas,300 mg",
-     "Precio": 200
-    },
-    {
-      "Medicamento": "RANITIDINA - 1 Caja, 5 Ampolleta(s), 2 ml, 50 Miligramos",
-     "Precio": 155
-    },
-    {
-      "Medicamento": "RANITIDINA - 1 Caja, 5 Ampolleta(s), 5 ml, 50 Miligramos",
-     "Precio": 180
-    },
-    {
-      "Medicamento": "RANITIDINA - 1 Caja, 10 Tabletas, 300 Miligramos",
-     "Precio": 220
-    },
-    {
-      "Medicamento": "SALAMFLUX - 1 Caja,1 Frasco(s),120 ml,",
-     "Precio": 95
-    },
-    {
-      "Medicamento": "SALBUTAMOL - 1 Caja, 1 Frasco(s), 10 ml,",
-     "Precio": 64
-    },
-    {
-      "Medicamento": "ZANIDIP - 1 Caja, 10 Tabletas, 10 Miligramos",
-     "Precio": 302
-    },
-    {
-      "Medicamento": "ZANIDIP - 1 Caja, 14 Tabletas, 20 Miligramos",
-     "Precio": 500
-    },
-    {
-      "Medicamento": "TAFIL - 1 Caja,1 Blíster,10 Tabletas,1 mg",
-     "Precio": 210
-    },
-    {
-      "Medicamento": "TAFIL - 1 Caja,1 Blíster,10 Tabletas,2 mg",
-     "Precio": 300
-    },
-    {
-      "Medicamento": "IBUPROFENO - 1 Caja , 10 Tabletas , 400 Miligramos",
-     "Precio": 70
-    },
-    {
-      "Medicamento": "IBUPROFENO - 1 Caja , 10 Tabletas , 200 Miligramos",
-     "Precio": 62
-    },
-    {
-      "Medicamento": "YODOLACTINA - Frasco(s),100 Tabletas,",
-     "Precio": 240
-    },
-    {
-      "Medicamento": "YODOLACTINA - Frasco(s),200 Tabletas,",
-     "Precio": 290
-    },
-    {
-      "Medicamento": "YODOLACTINA - Frasco(s),50 Tabletas,",
-     "Precio": 140
-    },
-    {
-      "Medicamento": "PRAMIPEXOL - 1 Caja, 20 Tabletas, 1 Miligramos",
-     "Precio": 330
-    },
-    {
-      "Medicamento": "PRAMIPEXOL - 1 Caja, 30 Tabletas, 0.25 Miligramos",
-     "Precio": 145
-    },
-    {
-      "Medicamento": "VIDAZA - 1 Frasco(s) ámpula, 100 mg, 25 mg/ml",
-     "Precio": 95
-    },
-    {
-      "Medicamento": "VIDAZA - 1 Frasco ámpula de vidrio, 30 ml,",
-     "Precio": 150
-    },
-    {
-      "Medicamento": "SUFISAL - 1 Caja, 30 Tabletas de liberación prolongada, 600 Miligramos",
-     "Precio": 720
-    },
-    {
-      "Medicamento": "SUFISAL - 1 Caja, 60 Tabletas de liberación prolongada, 600 Miligramos",
-     "Precio": 860
-    }
-  ]
+﻿[
+        {
+            "Clave": "01-005",
+            "Medicamento": "ACAMPROSATO 333 MG TABLETAS",
+            "Precio": "31.6"
+        },
+        {
+            "Clave": "01-035",
+            "Medicamento": "ACETATO DE LEUPROLERIN 3,75MG JERINGAS X 14 DOSIS.",
+            "Precio": "6.69"
+        },
+        {
+            "Clave": "01-058",
+            "Medicamento": "ACETAZOLAMIDA 250 MG EST. X 2 BLISTER  X 10 TABS. C/U",
+            "Precio": "1.99"
+        },
+        {
+            "Clave": "01-057",
+            "Medicamento": "ACETAZOLAMIDA SODICA 500 MG LIOF.BBO.X 20 ML",
+            "Precio": "21.99"
+        },
+        {
+            "Clave": "01-047",
+            "Medicamento": "ACETIL CISTEINA 20 % INY AMPULA ",
+            "Precio": "14"
+        },
+        {
+            "Clave": "01-044",
+            "Medicamento": "ACETIL CISTEINA 200MG SOBRES",
+            "Precio": "1.69"
+        },
+        {
+            "Clave": "01-045",
+            "Medicamento": "ACETIL CISTEINA NEBULIZ. 10% X 1 ML X 1 AMP.",
+            "Precio": "10.4"
+        },
+        {
+            "Clave": "01-046",
+            "Medicamento": "ACETIL COLINA 20 MG X 5 ML BBO",
+            "Precio": "4.99"
+        },
+        {
+            "Clave": "01-053",
+            "Medicamento": "ACICLOVIR 200 MG EST. X 2 BLISTER  X 10 TABS. C/U.",
+            "Precio": "6.19"
+        },
+        {
+            "Clave": "01-059",
+            "Medicamento": "ACICLOVIR 250 MG POLVO ESTERIL.",
+            "Precio": "18.4"
+        },
+        {
+            "Clave": "01-054",
+            "Medicamento": "ACICLOVIR 3% UNGUENTO OFTALMICO ",
+            "Precio": "7.75"
+        },
+        {
+            "Clave": "01-051",
+            "Medicamento": "ACICLOVIR CREMA 5% TUBO X 15 G.",
+            "Precio": "5.5"
+        },
+        {
+            "Clave": "01-063",
+            "Medicamento": "ACIDO ACETILSALICILICO 125 MG X 60 TABLETAS",
+            "Precio": "11"
+        },
+        {
+            "Clave": "01-175",
+            "Medicamento": "AGUA ESTERIL PARA INYECCION FCO. X 500ML.",
+            "Precio": "180"
+        },
+        {
+            "Clave": "01-188",
+            "Medicamento": "ALBENDAZOL 200MG/TABS. FCO. X 10 TABLETAS",
+            "Precio": "91"
+        },
+        {
+            "Clave": "01-197",
+            "Medicamento": "ALBUMINA HUMANA 20% X 50 ML ",
+            "Precio": "295"
+        },
+        {
+            "Clave": "01-207",
+            "Medicamento": "ALCOHOL ETILICO  96% X 10 ML AMP",
+            "Precio": "500"
+        },
+        {
+            "Clave": "01-213",
+            "Medicamento": "ALENTUZOMAB 10MG/ML AMPULAS 3ML",
+            "Precio": "500"
+        },
+        {
+            "Clave": "01-240",
+            "Medicamento": "ALOPURINOL 100 MG X 10 TABLETAS. ",
+            "Precio": "70"
+        },
+        {
+            "Clave": "01-248",
+            "Medicamento": "ALPRAZOLAM 0,5MG/5ML SOL ORAL FCO. X 118 ML.",
+            "Precio": "50"
+        },
+        {
+            "Clave": "01-228",
+            "Medicamento": "ALPRAZOLAM 0.5 MG X 30 TAB",
+            "Precio": "20.7"
+        },
+        {
+            "Clave": "01-277",
+            "Medicamento": "AMANTADINA 100 MG CAPSULAS",
+            "Precio": "21"
+        },
+        {
+            "Clave": "02-090",
+            "Medicamento": "BARIOPAC POLVO X 150 G",
+            "Precio": "183.5"
+        },
+        {
+            "Clave": "02-093",
+            "Medicamento": "BASILIXIMAB 20 MG LIOF P/INY EST X 1 BBO + AMPOLLETA DE DISOLVENTE",
+            "Precio": "94.5"
+        },
+        {
+            "Clave": "02-094",
+            "Medicamento": "BCG INMUNOTERAPICO 50MG/ML BBO X 2ML",
+            "Precio": "298.5"
+        },
+        {
+            "Clave": "02-105",
+            "Medicamento": "BECLOMETASONA DIPROPIONATO AEROSOL PRESURIZADO 50µG/DOSIS X 200 DOSIS",
+            "Precio": "503.5"
+        },
+        {
+            "Clave": "88-165",
+            "Medicamento": "BENEDICT CUALITATIVO 120 ML",
+            "Precio": "503.5"
+        },
+        {
+            "Clave": "02-280",
+            "Medicamento": "BENZALCONIO COLIRIO 0.01% FCO. 10 ML.",
+            "Precio": "73.5"
+        },
+        {
+            "Clave": "02-350",
+            "Medicamento": "BENZOATO DE BENCILO LOCION FCO. X 110 ML",
+            "Precio": "53.5"
+        },
+        {
+            "Clave": "02-475",
+            "Medicamento": "BETAMETASONA 4 MG X ML X AMP.",
+            "Precio": "24.2"
+        },
+        {
+            "Clave": "02-496",
+            "Medicamento": "BETAXOLOL 0,5% COLIRIO X 5 ML",
+            "Precio": "24.5"
+        },
+        {
+            "Clave": "03-141",
+            "Medicamento": "BICALUTAMIDA 150 MG TABLETAS ",
+            "Precio": "71.57"
+        },
+        {
+            "Clave": "03-140",
+            "Medicamento": "BICALUTAMIDA 50 MG TABLETAS ",
+            "Precio": "128.5"
+        },
+        {
+            "Clave": "02-500",
+            "Medicamento": "BICARBONATO DE SODIO 4% X 10 ML X AMP.",
+            "Precio": "13.12"
+        },
+        {
+            "Clave": "02-510",
+            "Medicamento": "BICARBONATO DE SODIO 8% X 10 ML X AMP.",
+            "Precio": "38.6"
+        },
+        {
+            "Clave": "02-520",
+            "Medicamento": "BICARBONATO DE SODIO POLVO SOBRE X 150 G",
+            "Precio": "13.69"
+        },
+        {
+            "Clave": "02-607",
+            "Medicamento": "BIOMODULINAT (FRACCIÓN TIMICA) 1MG/ML INYECTABLE BULBO X 3 ML ",
+            "Precio": "8.99"
+        },
+        {
+            "Clave": "02-608",
+            "Medicamento": "BIOTINA 5 MG TABLETAS",
+            "Precio": "28.99"
+        },
+        {
+            "Clave": "02-620",
+            "Medicamento": "BISACODILO 5MG X 10 TABLETAS REVESTIDAS",
+            "Precio": "21"
+        },
+        {
+            "Clave": "02-680",
+            "Medicamento": "BLEOMICINA 15 MG BBO. X 1 ML",
+            "Precio": "19.6"
+        },
+        {
+            "Clave": "02-770",
+            "Medicamento": "BREA CHAMPU MEDICINAL",
+            "Precio": "34.5"
+        },
+        {
+            "Clave": "02-782",
+            "Medicamento": "BROMOCRIPTINA MESILATO 2,5 MG TABLETAS ",
+            "Precio": "6.25"
+        },
+        {
+            "Clave": "03-650",
+            "Medicamento": "CLORURO DE SODIO HIPER 4,38G X20ML XAMP",
+            "Precio": "4"
+        },
+        {
+            "Clave": "03-648",
+            "Medicamento": "CLORURO DE SODIO HIPERTONICO 10% UNG. OFT. 10 G",
+            "Precio": "9.5"
+        },
+        {
+            "Clave": "03-647",
+            "Medicamento": "CLORURO DE SODIO HIPERTONICO 5% COLIRIO FCO x 8ML",
+            "Precio": "16.5"
+        },
+        {
+            "Clave": "03-660",
+            "Medicamento": "CLOTRIMAZOL 1% CREMA X 25 G.",
+            "Precio": "9.5"
+        },
+        {
+            "Clave": "03-651",
+            "Medicamento": "CLOTRIMAZOL 100 MG EST. X 2 BLISTER X 6 TABLETAS VAGINALES.",
+            "Precio": "2"
+        },
+        {
+            "Clave": "03-652",
+            "Medicamento": "CLOTRIMAZOL 200 MG X 6 OVULOS",
+            "Precio": "10.8"
+        },
+        {
+            "Clave": "03-654",
+            "Medicamento": "CLOTRIMAZOL 500MG OVULOS",
+            "Precio": "6.4"
+        },
+        {
+            "Clave": "03-669",
+            "Medicamento": "CLOXACILINA 500 MG BBO",
+            "Precio": "3.49"
+        },
+        {
+            "Clave": "03-940",
+            "Medicamento": "CODEINA 30 MG  X 10 TABLETAS (COSEDAL)",
+            "Precio": "10.39"
+        },
+        {
+            "Clave": "03-930",
+            "Medicamento": "CODEINA GOTAS FCO. X 15 ML (COSEDAL)",
+            "Precio": "5.2"
+        },
+        {
+            "Clave": "03-680",
+            "Medicamento": "COLCHICINA 0,5 MG EST. X 2 BLISTER X 10 TABLETAS C/U. ",
+            "Precio": "26.5"
+        },
+        {
+            "Clave": "03-701",
+            "Medicamento": "COLESTIRAMINA POLVO SOBRE X 4 G ",
+            "Precio": "8.4"
+        },
+        {
+            "Clave": "03-706",
+            "Medicamento": "COLISTINA 100 MG LIOFILIZADO (METANSULFONATO) EST. X 1 BULBO Y AMPULA X 2 ML.",
+            "Precio": "12.4"
+        },
+        {
+            "Clave": "03-726",
+            "Medicamento": "COMPLEJO VITAMINICO B JARABE X 120 ML Jbe.",
+            "Precio": "1"
+        },
+        {
+            "Clave": "03-740",
+            "Medicamento": "CONCENTRADO ACIDO PARA HEMODIALISISCON BICARBONATO DE SODIO X 10 LTS.",
+            "Precio": "5.45"
+        },
+        {
+            "Clave": "03-900",
+            "Medicamento": "CORTISONA 25 MG EST. X 2 BLISTER X 10 TABLETAS C/U",
+            "Precio": "6.99"
+        },
+        {
+            "Clave": "03-955",
+            "Medicamento": "CO-TRIMOXAZOL POLVO P/SUSP.ORAL X 60 ML.",
+            "Precio": "2.5"
+        },
+        {
+            "Clave": "03-954",
+            "Medicamento": "CO-TRIMOXAZOL X 10TABLETAS. ",
+            "Precio": "1.5"
+        },
+        {
+            "Clave": "03-952",
+            "Medicamento": "CO-TRIMOXAZOL X 5 ML X 1 AMP.",
+            "Precio": "2"
+        },
+        {
+            "Clave": "03-967",
+            "Medicamento": "CROMOGLICATO DISODICO AEROSOL PRESURIZADO 5MG/DOSIS X112 APLIC.",
+            "Precio": "6"
+        },
+        {
+            "Clave": "03-975",
+            "Medicamento": "CROMOGLICATO DISODICO COLIRIO 2% X 5 ML.",
+            "Precio": "5.5"
+        },
+        {
+            "Clave": "05-900",
+            "Medicamento": "DACARBAZINA 200 MG BBO ",
+            "Precio": "8.5"
+        },
+        {
+            "Clave": "05-020",
+            "Medicamento": "DANAZOL 200 MG CAPSULAS",
+            "Precio": "178.5"
+        },
+        {
+            "Clave": "05-023",
+            "Medicamento": "DANTROLENO  20MG BBO",
+            "Precio": "89.5"
+        },
+        {
+            "Clave": "05-026",
+            "Medicamento": "DAPSONA 100 MG X 30 TABLETAS",
+            "Precio": "293.5"
+        },
+        {
+            "Clave": "05-104",
+            "Medicamento": "DEXAMETASONA 8 MG BBO X 2 ML.",
+            "Precio": "498.5"
+        },
+        {
+            "Clave": "03-389",
+            "Medicamento": "DEXCLORFENIRAMINA 2 MG EST. X 2 BLISTER X 10 TABLETAS C/U. ",
+            "Precio": "498.5"
+        },
+        {
+            "Clave": "05-125",
+            "Medicamento": "DEXTRAN-40 10% FCO. X 500 ML",
+            "Precio": "68.5"
+        },
+        {
+            "Clave": "05-120",
+            "Medicamento": "DEXTRAN-70  6% FCO. X 400 ML",
+            "Precio": "48.5"
+        },
+        {
+            "Clave": "05-175",
+            "Medicamento": "DEXTROSA 10% FCO. X 500 ML",
+            "Precio": "19.2"
+        },
+        {
+            "Clave": "05-185",
+            "Medicamento": "DEXTROSA 20% X 10 ML X 1 AMP.",
+            "Precio": "19.5"
+        },
+        {
+            "Clave": "05-190",
+            "Medicamento": "DEXTROSA 30% FCO. X 500 ML",
+            "Precio": "53.35"
+        },
+        {
+            "Clave": "05-160",
+            "Medicamento": "DEXTROSA 5% FCO. X 1000 ML",
+            "Precio": "9.85"
+        },
+        {
+            "Clave": "05-155",
+            "Medicamento": "DEXTROSA 5% FCO. X 500 ML",
+            "Precio": "5.74"
+        },
+        {
+            "Clave": "06-140",
+            "Medicamento": "EPINEFRINA 1 MG X 1 ML X 1 AMP.",
+            "Precio": "13.67"
+        },
+        {
+            "Clave": "06-197",
+            "Medicamento": "ERGOCALCIFEROL 200,000 U X 1 ML X 1 AMP.",
+            "Precio": "7.71"
+        },
+        {
+            "Clave": "06-200",
+            "Medicamento": "ERGOFEINA EST. X 2 BLISTER X 10 TABS. C/U REVESTIDAS (ERGOTAMINA 1MG+CAFEINA100MG)",
+            "Precio": "1.62"
+        },
+        {
+            "Clave": "06-220",
+            "Medicamento": "ERGOMETRINA 0.2 MG X 1 ML X 1 AMP.",
+            "Precio": "11.39"
+        },
+        {
+            "Clave": "06-260",
+            "Medicamento": "ERITROMICINA  1G BBO.",
+            "Precio": "15.99"
+        },
+        {
+            "Clave": "06-280",
+            "Medicamento": "ERITROMICINA 250 MG X 10 TABLETAS ",
+            "Precio": "2.88"
+        },
+        {
+            "Clave": "06-270",
+            "Medicamento": "ERITROMICINA POLVO P/SUSP ORAL  125 MG/5ML FCO.X 60 ML",
+            "Precio": "7.99"
+        },
+        {
+            "Clave": "06-296",
+            "Medicamento": "ERITROPOYETINA HUMANA RECOMBINANTE  10000 UI BBO ",
+            "Precio": "9.76"
+        },
+        {
+            "Clave": "06-295",
+            "Medicamento": "ERITROPOYETINA HUMANA RECOMBINANTE  4000 UI BBO ",
+            "Precio": "4.6"
+        },
+        {
+            "Clave": "07-032",
+            "Medicamento": "FENILEFRINA 10 MG X 1 ML X 1 AMP.",
+            "Precio": "3.45"
+        },
+        {
+            "Clave": "07-036",
+            "Medicamento": "FENILEFRINA 10% + TROPICAMIDA 1%  COLIRIO FCO. X 5 ML",
+            "Precio": "4.03"
+        },
+        {
+            "Clave": "07-042",
+            "Medicamento": "FENITOINA 125MG/5ML SUSPENSION FCO. X 235 ML",
+            "Precio": "8.63"
+        },
+        {
+            "Clave": "07-046",
+            "Medicamento": "FENITOINA 50MG X 50 TABLETAS MASTICABLES ",
+            "Precio": "8.05"
+        },
+        {
+            "Clave": "07-051",
+            "Medicamento": "FENITOINA SODICA 250 MG LIOF.BBO.Y DISOLV",
+            "Precio": "11.5"
+        },
+        {
+            "Clave": "07-060",
+            "Medicamento": "FENOBARBITAL ELIXIR 15MG/5ML FCO. X 60 ML",
+            "Precio": "207"
+        },
+        {
+            "Clave": "07-130",
+            "Medicamento": "FENOBARBITAL SODICO 0.2G X 1 ML X 1 AMP.",
+            "Precio": "104.65"
+        },
+        {
+            "Clave": "07-090",
+            "Medicamento": "FENOBARBITAL-100 X 10 TABLETAS.",
+            "Precio": "339.25"
+        },
+        {
+            "Clave": "07-070",
+            "Medicamento": "FENOBARBITAL-15 X 20 TABLETAS. ",
+            "Precio": "57.5"
+        },
+        {
+            "Clave": "08-005",
+            "Medicamento": "GABAPENTINA 300MG X 30 TAB",
+            "Precio": "575"
+        },
+        {
+            "Clave": "08-007",
+            "Medicamento": "DIMEGLUMINA (GADOLINE) 469MG SOL INY IV EST X 1 VIAL X 15ML",
+            "Precio": "80.5"
+        },
+        {
+            "Clave": "08-026",
+            "Medicamento": "GANCICLOVIR  0.5 G BBO.",
+            "Precio": "57.5"
+        },
+        {
+            "Clave": "08-032",
+            "Medicamento": "GELATINA LIQUIDA 4 % x 500 ML",
+            "Precio": "23.81"
+        },
+        {
+            "Clave": "08-036",
+            "Medicamento": "GENTAMICINA 0,1% CREMA TUBO X 15 G",
+            "Precio": "24.15"
+        },
+        {
+            "Clave": "08-037",
+            "Medicamento": "GENTAMICINA 10 MG. X 1 ML. AMP.",
+            "Precio": "78.28"
+        },
+        {
+            "Clave": "08-042",
+            "Medicamento": "GENTAMICINA 80 MG. X 2 ML. AMP.",
+            "Precio": "143.75"
+        },
+        {
+            "Clave": "08-034",
+            "Medicamento": "GENTAMICINA COLIRIO 0,3% X 5 ML.",
+            "Precio": "11.30"
+        },
+        {
+            "Clave": "08-095",
+            "Medicamento": "GLIBENCLAMIDA 5 MG X 10 TABLETAS. ",
+            "Precio": "40.30"
+        },
+        {
+            "Clave": "08-100",
+            "Medicamento": "GLICERINA EST.X  2 BLISTER X 6 SUPOSITORIOS C/U  ",
+            "Precio": "11.72"
+        },
+        {
+            "Clave": "09-020",
+            "Medicamento": "HALOPERIDOL 1,5 MG EST. X 3 BLISTER X 10 TABLETAS C/U. ",
+            "Precio": "6.31"
+        },
+        {
+            "Clave": "09-010",
+            "Medicamento": "HALOPERIDOL 5 MG X 1 ML X 1 AMP.",
+            "Precio": "29.31"
+        },
+        {
+            "Clave": "07-301",
+            "Medicamento": "HALOTANO FCO X 250 ML",
+            "Precio": "20.13"
+        },
+        {
+            "Clave": "09-041",
+            "Medicamento": "HEPALCE (EX.CEB 10G, HEP.SOD 0.0268G, ALANT 1G) JALEA X  TUBO 15 G ",
+            "Precio": "5.97"
+        },
+        {
+            "Clave": "09-043",
+            "Medicamento": "HEPARINA BPM 0,3 MG ( 0,4 MG) AMP.",
+            "Precio": "15.99"
+        },
+        {
+            "Clave": "09-044",
+            "Medicamento": "HEPARINA BPM 0,6 MG  AMP.",
+            "Precio": "11.46"
+        },
+        {
+            "Clave": "09-050",
+            "Medicamento": "HEPARINA SODICA 5000 UI/ML INY. BULBO X 5 ML.",
+            "Precio": "29.69"
+        },
+        {
+            "Clave": "09-055",
+            "Medicamento": "HEPARINA SODICA CREMA X 25 G.",
+            "Precio": "18.9"
+        },
+        {
+            "Clave": "09-172",
+            "Medicamento": "HIDRATO DE CLORAL 0,60G/5ML FCO. X 60 ML",
+            "Precio": "2.28"
+        },
+        {
+            "Clave": "09-250",
+            "Medicamento": "HIDROCLOROTIAZIDA-25 MG X 20 TABLETAS",
+            "Precio": "14.04"
+        },
+        {
+            "Clave": "10-075",
+            "Medicamento": "IMATINIB 400MG  CAPSULAS",
+            "Precio": "6.74"
+        },
+        {
+            "Clave": "10-080",
+            "Medicamento": "IMIPRAMINA 25 MG X 10 TABLETAS REVESTIDAS",
+            "Precio": "8.36"
+        },
+        {
+            "Clave": "10-070",
+            "Medicamento": "IMIPRAMINA 25 MG X 2 ML X 1 AMP.",
+            "Precio": "24.84"
+        },
+        {
+            "Clave": "10-118",
+            "Medicamento": "INDINAVIR 200 MG X 180 CAPSULAS",
+            "Precio": "10.46"
+        },
+        {
+            "Clave": "10-130",
+            "Medicamento": "INDOMETACINA 25 MG X 20 TABLETAS. ",
+            "Precio": "7.43"
+        },
+        {
+            "Clave": "13-165",
+            "Medicamento": "LEVOTIROXINA SODICA 0.1 MG EST. X 2 BLISTER X 10 TABLETAS C/U. ",
+            "Precio": "14.85"
+        },
+        {
+            "Clave": "13-206",
+            "Medicamento": "LIKROLOL x 20ML AMPULA",
+            "Precio": "24.3"
+        },
+        {
+            "Clave": "13-200",
+            "Medicamento": "LIDOCAINA 10% SPRAY ANESTESICO X 50G",
+            "Precio": "14.85"
+        },
+        {
+            "Clave": "13-174",
+            "Medicamento": "LIDOCAINA 2% BBO.X 5 ML (SIN PRESERVO)",
+            "Precio": "4.73"
+        },
+        {
+            "Clave": "13-172",
+            "Medicamento": "LIDOCAINA 2% BULBO X 5 ML C/PRESERVO",
+            "Precio": "16.61"
+        },
+        {
+            "Clave": "13-170",
+            "Medicamento": "LIDOCAINA 2% JALEA TUBO X 25 G",
+            "Precio": "10.67"
+        },
+        {
+            "Clave": "13-303",
+            "Medicamento": "LORATADINA 1 MG/ML JARABE X 120 ML",
+            "Precio": "6.74"
+        },
+        {
+            "Clave": "13-302",
+            "Medicamento": "LORATADINA 10 MG X 10 TABLETAS",
+            "Precio": "16.05"
+        },
+        {
+            "Clave": "13-310",
+            "Medicamento": "LUBRICANTE HIDROSOLUBLE FRASCO X 25 G",
+            "Precio": "9.05"
+        },
+        {
+            "Clave": "15-005",
+            "Medicamento": "MAFENIDA 10%  CREMA X 200 G",
+            "Precio": "1.9"
+        },
+        {
+            "Clave": "15-115",
+            "Medicamento": "MANDELAMINA 500 MG X 30 TABLETAS REVESTIDAS",
+            "Precio": "13.37"
+        },
+        {
+            "Clave": "15-140",
+            "Medicamento": "MANITOL 20% FCO. X 250 ML",
+            "Precio": "18.77"
+        },
+        {
+            "Clave": "15-130",
+            "Medicamento": "MANITOL 5 G X 20 ML X 1 AMP.",
+            "Precio": "3.38"
+        },
+        {
+            "Clave": "15-165",
+            "Medicamento": "MATERLAC (CEREAL LACTEADO ENRIQUECIDO BOLSA X 1000 G)",
+            "Precio": "9.38"
+        },
+        {
+            "Clave": "15-155",
+            "Medicamento": "MEBENDAZOL 100 MG X 6 TABLETAS.",
+            "Precio": "11.46"
+        },
+        {
+            "Clave": "15-175",
+            "Medicamento": "MECLIZINA 25 MG X 10 TABLETAS ",
+            "Precio": "5.4"
+        },
+        {
+            "Clave": "15-330",
+            "Medicamento": "MELFALAN 2 MG TABLETAS. ",
+            "Precio": "4.05"
+        },
+        {
+            "Clave": "15-340",
+            "Medicamento": "MENADIONA 2 MG/ ML  AMPULA.(VITAMINA K3)",
+            "Precio": "4.73"
+        },
+        {
+            "Clave": "15-350",
+            "Medicamento": "MENADIONA 25 MG/ ML AMPULA (VITAMINA K3)",
+            "Precio": "10.13"
+        },
+        {
+            "Clave": "15-395",
+            "Medicamento": "MENTOLAN  CREMA TUBO X 25 G",
+            "Precio": "9.45"
+        },
+        {
+            "Clave": "15-398",
+            "Medicamento": "MEPIVACAINA 2% BBO. X 20 ML",
+            "Precio": "13.5"
+        },
+        {
+            "Clave": "15-399",
+            "Medicamento": "MEPIVACAINA 3% CARPULE.",
+            "Precio": "243"
+        },
+        {
+            "Clave": "15-420",
+            "Medicamento": "MEPROBAMATO 400 MG X 10 TABLETAS. ",
+            "Precio": "122.85"
+        },
+        {
+            "Clave": "15-480",
+            "Medicamento": "MERCAPTOPURINA 50 MG TABLETAS.",
+            "Precio": "398.25"
+        },
+        {
+            "Clave": "15-487",
+            "Medicamento": "MEROPENEM 0.5 GR BBO X 20ML",
+            "Precio": "128"
+        },
+        {
+            "Clave": "15-486",
+            "Medicamento": "MEROPENEM 1 GR BBOX 30ML",
+            "Precio": "35.80"
+        },
+        {
+            "Clave": "15-488",
+            "Medicamento": "MESALAZINA 400MG TABLETAS,",
+            "Precio": "24.14"
+        },
+        {
+            "Clave": "16-510",
+            "Medicamento": "NISTATINA ORAL 500,000 UI X 30 TABLETAS",
+            "Precio": "12.78"
+        },
+        {
+            "Clave": "16-500",
+            "Medicamento": "NISTATINA POLVO P/SUSP.ORAL 500 000 UI/5ML FCO.X 60 ML.",
+            "Precio": "15.29"
+        },
+        {
+            "Clave": "16-560",
+            "Medicamento": "NITRAZEPAM 5 MG X 20 TABLETAS.",
+            "Precio": "40.9"
+        },
+        {
+            "Clave": "16-600",
+            "Medicamento": "NITROFURANTOINA 0.1 G X 10 TABLETAS. ",
+            "Precio": "18.57"
+        },
+        {
+            "Clave": "16-635",
+            "Medicamento": "NITROFURAZONA CREMA  FRASCO X 200 GR",
+            "Precio": "13.85"
+        },
+        {
+            "Clave": "18-001",
+            "Medicamento": "OBIDOXINA CLORURO 250 MG  AMP.",
+            "Precio": "25.39"
+        },
+        {
+            "Clave": "01-039",
+            "Medicamento": "OCTREOTIDE 20MG AMP",
+            "Precio": "40.05"
+        },
+        {
+            "Clave": "18-005",
+            "Medicamento": "OFLOXACINA 200 MG TABLETAS",
+            "Precio": "25.39"
+        },
+        {
+            "Clave": "18-016",
+            "Medicamento": "OLANZAPINA 10 MG TABLETAS",
+            "Precio": "9.66"
+        },
+        {
+            "Clave": "18-015",
+            "Medicamento": " OLANZAPINA 5 MG TABLETAS ",
+            "Precio": "28.11"
+        },
+        {
+            "Clave": "23-432",
+            "Medicamento": "OLIGOELEMENTOS AMP (TRACUTIL)",
+            "Precio": "18.89"
+        },
+        {
+            "Clave": "19-115",
+            "Medicamento": "PARACETAMOL 500 MG X 10 TABLETAS",
+            "Precio": "12.78"
+        },
+        {
+            "Clave": "19-112",
+            "Medicamento": "PARACETAMOL INFANTIL 0,300 G X 5 SUPOSITORIOS",
+            "Precio": "27.26"
+        },
+        {
+            "Clave": "19-188",
+            "Medicamento": "PENICILAMINA 250 MG TABLETAS.",
+            "Precio": "16.37"
+        },
+        {
+            "Clave": "19-190",
+            "Medicamento": "PENICILINA BENZATINICA 1 200 000 U BBO.",
+            "Precio": "5.28"
+        },
+        {
+            "Clave": "19-205",
+            "Medicamento": "PENICILINA G SODICA 1 000 000 U BBO.",
+            "Precio": "23.07"
+        },
+        {
+            "Clave": "20-040",
+            "Medicamento": "QUINACRINA 100 MG X 20 TABLETAS",
+            "Precio": "31.45"
+        },
+        {
+            "Clave": "20-100",
+            "Medicamento": "QUININA 500MG  TABLETAS",
+            "Precio": "7.57"
+        },
+        {
+            "Clave": "20-096",
+            "Medicamento": "QUININA 600MG AMP X 2ML",
+            "Precio": "16.9"
+        },
+        {
+            "Clave": "21-006",
+            "Medicamento": "RANITIDINA 150 MG EST. X 3 BLISTER X 10 TABLETAS REVESTIDAS C/U.",
+            "Precio": "20.81"
+        },
+        {
+            "Clave": "21-003",
+            "Medicamento": "RANITIDINA I.V. 25 MG/ML AMP. X 2 ML.",
+            "Precio": "11.41"
+        },
+        {
+            "Clave": "21-080",
+            "Medicamento": "RESERPINA 0.25 MG 20 TABLETAS.",
+            "Precio": "9.3"
+        },
+        {
+            "Clave": "21-115",
+            "Medicamento": "RESINA CALCIO POLVO LATA 400 GMS",
+            "Precio": "10.35"
+        },
+        {
+            "Clave": "21-116",
+            "Medicamento": "RESINA SODIO POLVO LATA X 400 GMS",
+            "Precio": "18.73"
+        },
+        {
+            "Clave": "21-140",
+            "Medicamento": "RIBAVIRINA 200 MG X 42 CAPSULAS",
+            "Precio": "17.69"
+        },
+        {
+            "Clave": "21-135",
+            "Medicamento": "RIFABUTINA 150 MG 30 TAB",
+            "Precio": "23.98"
+        },
+        {
+            "Clave": "21-150",
+            "Medicamento": "RIFAMICINA 250 MGINY. X 1 AMP.",
+            "Precio": "380.28"
+        },
+        {
+            "Clave": "22-050",
+            "Medicamento": "SALES BILIARES 65 MG X 20 TABLETAS REVESTIDAS",
+            "Precio": "193.74"
+        },
+        {
+            "Clave": "22-073",
+            "Medicamento": "SALES PARA REHIDRATANCIÓN ORAL POLVO SOBRE X 26.8 G",
+            "Precio": "621.3"
+        },
+        {
+            "Clave": "22-655",
+            "Medicamento": "SULFATO DE MAGNESIO X 100 G",
+            "Precio": "50.90"
+        },
+        {
+            "Clave": "23-005",
+            "Medicamento": "TALIDOMIDA 100MG TABLETAS",
+            "Precio": "100.96"
+        },
+        {
+            "Clave": "23-027",
+            "Medicamento": "TAMOXIFENO 20 MG TABLETAS",
+            "Precio": "149.73"
+        },
+        {
+            "Clave": "23-037",
+            "Medicamento": "TEICOPLANINA 200MG AMP ",
+            "Precio": "107.81"
+        },
+        {
+            "Clave": "23-039",
+            "Medicamento": "TENOFOVIR 300 MG FCO X 30 TAB",
+            "Precio": "46.39"
+        },
+        {
+            "Clave": "23-050",
+            "Medicamento": "TEOFILINA 170 MG EST. X 2 BLISTER X 10 TABLETAS C/U ",
+            "Precio": "46.34"
+        },
+        {
+            "Clave": "23-051",
+            "Medicamento": "TEOFILINA 200 MG ACCION CONTROLADA X 60 TABLETAS (CONTROFILINA)",
+            "Precio": "144.99"
+        },
+        {
+            "Clave": "23-062",
+            "Medicamento": "TERAZOSINA-2, 2 MG/TAB BLISTER X 10 TABLETAS",
+            "Precio": "264.32"
+        },
+        {
+            "Clave": "23-062",
+            "Medicamento": "TERAZOSINA-5, 5 MG/TAB FRASCO X 90 TABLETAS",
+            "Precio": "22.49"
+        },
+        {
+            "Clave": "23-054",
+            "Medicamento": "TESTOSTERONA 25 MG X 1 ML X 1 AMP.",
+            "Precio": "75.9"
+        },
+        {
+            "Clave": "23-057",
+            "Medicamento": "TESTOSTERONA DEPOSITO 100 MG X 1ML AMP.",
+            "Precio": "23.68"
+        },
+        {
+            "Clave": "23-059",
+            "Medicamento": "TETRACAINA 10 MG INY LIOF. BBO. X 10 ML (CRISTALES)",
+            "Precio": "13.84"
+        },
+        {
+            "Clave": "23-060",
+            "Medicamento": "TETRACAINA 100 MG BBO.X10ML C/DIL.P/ANEST",
+            "Precio": "55.75"
+        },
+        {
+            "Clave": "24-040",
+            "Medicamento": "UROFOLITROFINA LIOFILIZADA 75 U AMP",
+            "Precio": "39"
+        },
+        {
+            "Clave": "24-071",
+            "Medicamento": "UROMITEXAN 400MG.  AMP.",
+            "Precio": "36.07"
+        },
+        {
+            "Clave": "25-098",
+            "Medicamento": "VACUNA ANTIDIFTÉRICA, ANTITETÁNICA (DT) BBO X 10 DOSIS.(VA-DIFTET)",
+            "Precio": "134.72"
+        },
+        {
+            "Clave": "25-017",
+            "Medicamento": "VACUNA ANTIGRIPAL X 250 DOSIS (ADULTO)",
+            "Precio": "8.1"
+        },
+        {
+            "Clave": "25-200",
+            "Medicamento": "VENATON GOTAS 30 ML ",
+            "Precio": "3.37"
+        },
+        {
+            "Clave": "25-190",
+            "Medicamento": "VENATON UNGUENTO RECTAL TUBO X 25 G",
+            "Precio": "14.9"
+        },
+        {
+            "Clave": "25-203",
+            "Medicamento": "VERAPAMILO 5 MG INY (2,5 MG/ML) AMP. X 2 ML.",
+            "Precio": "29.58"
+        },
+        {
+            "Clave": "25-206",
+            "Medicamento": "VERAPAMILO 80 MG X 30 TABLETAS.",
+            "Precio": "14.9"
+        },
+        {
+            "Clave": "25-202",
+            "Medicamento": "VERTEPORFINA AMPOLLETA",
+            "Precio": "28.9"
+        },
+        {
+            "Clave": "25-209",
+            "Medicamento": "VIGABATRINA 500MG  TABLETAS",
+            "Precio": "17.63"
+        },
+        {
+            "Clave": "25-211",
+            "Medicamento": "VIMANG CREMA FRASCO X 30 GR",
+            "Precio": "8.41"
+        },
+        {
+            "Clave": "25-210",
+            "Medicamento": "VINBLASTINA 10 MG X 5 ML BBO.",
+            "Precio": "2.31"
+        },
+        {
+            "Clave": "25-220",
+            "Medicamento": "VINCRISTINA 1MG/ML SOL. P/ INYECCIÓN IV BBO.",
+            "Precio": "16.77"
+        },
+        {
+            "Clave": "26-013",
+            "Medicamento": "WHITFIELD CON AZUFRE POMADA X 25 GR (ACIDO SALICILICO+ACIDO BENZOICO +AZUFRE)",
+            "Precio": "5.88"
+        },
+        {
+            "Clave": "29-017",
+            "Medicamento": "ZIDOVUDINA 200 MG INY P/INFUSIÓN IV AMPULA 20 X ML ",
+            "Precio": "1.98"
+        },
+        {
+            "Clave": "29-016",
+            "Medicamento": "ZIDOVUDINA 300 MG X 60 TABLETAS",
+            "Precio": "12.59"
+        }
+]

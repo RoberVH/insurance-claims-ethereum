@@ -1,0 +1,12 @@
+{
+    "truffle": {
+        "connection-url": "http://localhost:9545"
+    },
+    "infura": {
+        "connection-url": ""
+    },
+    "cloudflare": {
+        "connection-url": ""
+    }
+       
+}
